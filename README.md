@@ -45,7 +45,6 @@ Email: mariatechfuture@gmail.com
 * MySQL
 * and more, check out my portfolio and resume for info!
 
----
 
 
 
