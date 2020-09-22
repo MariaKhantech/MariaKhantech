@@ -18,8 +18,8 @@ https://envira-bot.com/
 
 ### Connect with me:
 
-<a href ="https://mariakhantech.github.io/maria-khan-portfolio/"> <img align="left" alt="marias portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />&nbsp; Portfolio </a>
-<a href="https://www.linkedin.com/in/maria-khan-tech/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp; LinkedIn </a>
+<a href ="https://mariakhantech.github.io/maria-khan-portfolio/"> <img align="left" alt="marias portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://www.linkedin.com/in/maria-khan-tech/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <img  align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/mail-dot-ru.svg" />&nbsp; mariatechfuture@gmail.com
 
 
