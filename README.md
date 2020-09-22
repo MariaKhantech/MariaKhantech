@@ -9,7 +9,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love the orchestra.
 
-### Check out my latest Project Envira the Environmental Robot:
+### Check out my latest Project Envira the Environmental AI Robot:
 ![gif1](https://media.giphy.com/media/VDAuv7bMueJSBo4rMc/giphy.gif)
 
 #### Demo link: 
