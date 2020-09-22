@@ -50,7 +50,7 @@ Email: mariatechfuture@gmail.com
 
 
 
-  <summary> Github Stats</summary>
+## Github Stats
 
   <img align="center" alt="Maria Khan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MariaKhantech&show_icons=true&&theme=radical&count_private=true" />
     
