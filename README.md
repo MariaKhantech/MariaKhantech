@@ -1,16 +1,56 @@
-### Hi there 👋
+### Hi there, my name is Maria  👋
 
-<!--
-**MariaKhantech/MariaKhantech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a Junior Web Developer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on working on my new internship and learning AWS services. 
+- 🌱 I’m currently learning Python, AWS Lambda, AWS DynamoDB, AWS cognito, AWS S3, and serverless.
+- 👯 I will be looking for collaborations in the future.
+- 💬 2020-2021 GOALS: Becoming an AWS certified developer.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love the orchestra.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Check out my latest Project Envira the Environmental Robot:
+![gif1](https://media.giphy.com/media/VDAuv7bMueJSBo4rMc/giphy.gif)
+
+####Demo link: 
+
+https://envira-bot.com/
+
+### Connect with me:
+
+<a href =""> <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />&nbsp; Portfolio </a>
+<a href="https://www.linkedin.com/in/maria-khan-tech/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp; LinkedIn </a>
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/mail-dot-ru.svg" />&nbsp; mariatechfuture@gmail.com
+
+<br />
+####Languages and Tools     
+- AWS services      
+    * Amplify
+    * S3
+    * EC2
+    * Lex
+    * Polly
+    * Lamda
+    * DynamoDB
+    * Route 53
+    * CloudFormation
+
+* JavaScript
+* Python
+* React
+* Bootstrap & Materialize
+* Node.JS
+* MySQL
+* and more, check out my portfolio and resume for info!
+
+---
+
+
+
+
+  <summary> Github Stats</summary>
+
+  <img align="center" alt="Maria Khan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MariaKhantech&show_icons=true&&theme=radical&count_private=true" />
+    
+
+
