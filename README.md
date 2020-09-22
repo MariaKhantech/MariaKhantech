@@ -16,7 +16,7 @@
 
 https://envira-bot.com/
 
-### Connect with me:
+### Connect with me and check out my portfolio(globe):
 
 <a href ="https://mariakhantech.github.io/maria-khan-portfolio/"> <img align="left" alt="marias portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://www.linkedin.com/in/maria-khan-tech/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
