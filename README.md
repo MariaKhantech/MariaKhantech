@@ -23,9 +23,9 @@ https://envira-bot.com/
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/mail-dot-ru.svg" />&nbsp; mariatechfuture@gmail.com
 
 <br />
-#### Languages and Tools    
+### Languages and Tools    
 
-- AWS services      
+* AWS services      
     * Amplify
     * S3
     * EC2
