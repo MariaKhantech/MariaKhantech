@@ -22,7 +22,8 @@ https://envira-bot.com/
 <a href="https://www.linkedin.com/in/maria-khan-tech/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp; LinkedIn </a>
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/mail-dot-ru.svg" />&nbsp; mariatechfuture@gmail.com
 
-<br />
+
+
 ### Languages and Tools    
 
 * AWS services      
