@@ -52,6 +52,11 @@ Email: mariatechfuture@gmail.com
 ## Github Stats
 
   <img align="center" alt="Maria Khan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MariaKhantech&show_icons=true&&theme=radical&count_private=true" />
+  
+  <p >
+
+  <img align="top" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalaggv2&theme=nightowl&layout=compact" />
+</p>
     
 
 
