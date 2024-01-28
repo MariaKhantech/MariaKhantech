@@ -1,6 +1,6 @@
 ### Hi there, my name is Maria  👋
 
-## I am a Junior Web Developer
+## I am a Software Engineer
 
 - 🔭 I’m currently working on working on my new internship and learning AWS services. 
 - 🌱 I’m currently learning Python, AWS Lambda, AWS DynamoDB, AWS cognito, AWS S3, and serverless.
